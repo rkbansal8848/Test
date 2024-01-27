@@ -5,3 +5,6 @@ function name(params) {
 function name(params) {
     console.log("rohit");
 }
+function name(params) {
+    console.lo("dg");
+}
